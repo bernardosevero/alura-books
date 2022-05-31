@@ -1,4 +1,4 @@
-import './App.css';
+import './App.css'
 import HeaderMenu from './components/HeaderMenu/HeaderMenu'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
       <div className="App">
         <HeaderMenu />
       </div>
-  );
+  )
 }
 
-export default App;
+export default App

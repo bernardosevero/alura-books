@@ -1,8 +1,9 @@
+import './style.css'
 import { headerIcons } from './IconsData'
 
 const HeaderIcons = () => {
     return (
-        <ul className='flex'>
+        <ul className='icons'>
                 { headerIcons.map( icon => (
                     <li className={icon.class}>
                         <img

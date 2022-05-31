@@ -1,3 +1,4 @@
+import './style.css'
 import logo from '../../images/logo.svg'
 
 const Logo = () => {

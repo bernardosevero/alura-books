@@ -1,3 +1,4 @@
+import './style.css'
 import Logo from '../Logo/Logo'
 import MenuOptions from '../MenuOptions/MenuOptions'
 import HeaderIcons from '../HeaderIcons/HeaderIcons'
